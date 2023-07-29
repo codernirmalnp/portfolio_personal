@@ -14,7 +14,7 @@ export const Topbar = () => {
             {/* Admin profile */}
             <div className="flex items-center space-x-4 cursor-pointer px-2  py-2">
                 <div className='w-12 h-12 rounded-full border-2 border-gray-900 overflow-hidden'>
-                    <img src="/profile.svg" alt="" className='w-full h-full object-cover' />
+                    {/* <img src="/profile.svg" alt="" className='w-full h-full object-cover' /> */}
 
                 </div>
 
